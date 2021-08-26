@@ -27,9 +27,7 @@
 <a href="https://t.me/nagarkarparth22"><img height="30" src="https://img.shields.io/badge/telegram-blue?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 </p>
-<br>
-</br>
----
+
 <h3>Github Streak :fire:</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
