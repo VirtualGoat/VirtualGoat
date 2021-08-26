@@ -5,7 +5,7 @@
   </p>
   <br>
   </br>
- 👋 Hi! I am <strong>Parth Nagarkar</strong>, an MS in Computer Science student at Stony Brook University with excellent academic background, strong research interest and diverse skillset.
+ 👋 Hi! I am <strong>Parth Nagarkar</strong>, an MS in Computer Science student at Stony Brook University with excellent academic background, strong research interest and diverse skillset. A strong Python aficionado myself, I have a strong inclination for working with Data Science and Machine Learning. I have worked in the domain of Natural Language Processing, Social Media Analytics and Computer Vision. I am also experienced in working with Python3, Java, C, Flask, Streamlit, PostgreSQL and Matlab.
 
 
 <p align=center>
