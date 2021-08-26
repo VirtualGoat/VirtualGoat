@@ -32,7 +32,7 @@
 <h3>Github Streak :fire:</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VirtualGoat&theme=nightowl"></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirtualGoat&theme=nightowl"></img>
   </a>
 </p>
 
