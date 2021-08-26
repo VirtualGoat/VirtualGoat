@@ -1,9 +1,16 @@
   <!--<img src="https://github.com/arghyadeep99/arghyadeep99/blob/master/avatar.png" width="200px">
   <br>-->
-  <samp>
+
     <br>
   <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
-    👋 Hi! <strong>Parth Nagarkar</strong>, an MS in Computer Science student at Stony Brook University with excellent academic background, strong research interest and diverse skillset.
+  <br>
+  </br>
+ <br>
+  </br>
+  <br>
+  </br>
+  
+ 👋 Hi! I am <strong>Parth Nagarkar</strong>, an MS in Computer Science student at Stony Brook University with excellent academic background, strong research interest and diverse skillset.
 
 
 <p align=center>
