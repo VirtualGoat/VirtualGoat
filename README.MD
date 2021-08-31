@@ -48,7 +48,6 @@
 </a>
 <br>
 
-
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=parthnagarkar875&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
