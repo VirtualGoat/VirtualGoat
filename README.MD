@@ -10,10 +10,10 @@
 </br>
 
 <p align=center>
-    <img src="https://badges.pufler.dev/visits/VirtualGoat/VirtualGoat?color=black&logo=github" />
-    <img src="https://komarev.com/ghpvc/?username=VirtualGoat&color=brightgreen" />
-    <a href="https://github.com/VirtualGoat">
-    <img src="https://badges.pufler.dev/commits/monthly/VirtualGoat?color=blue" />
+    <img src="https://badges.pufler.dev/visits/parthnagarkar875/?color=black&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=parthnagarkar875&color=brightgreen" />
+    <a href="https://github.com/parthnagarkar875">
+    <img src="https://badges.pufler.dev/commits/monthly/parthnagarkar875?color=blue" />
     </a>
     </p>
   </samp>
@@ -32,7 +32,7 @@
 <h3>Github Streak :fire:</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirtualGoat&theme=nightowl"></img>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthnagarkar875&theme=nightowl"></img>
   </a>
 </p>
 
@@ -41,16 +41,16 @@
 <h3>Github Stats 📊</h3>
 
 <p align="center">
-<a href="https://github.com/VirtualGoat">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=VirtualGoat&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Parth Nagarkar | Stats" />
-</a> <a href="https://github.com/VirtualGoat">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualGoat&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Parth Nagarkar | Top Languages" />
+<a href="https://github.com/parthnagarkar875">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=parthnagarkar875&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Parth Nagarkar | Stats" />
+</a> <a href="https://github.com/parthnagarkar875">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthnagarkar875&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Parth Nagarkar | Top Languages" />
 </a>
 <br>
 
 
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=VirtualGoat&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=parthnagarkar875&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 </p>
 <br>
