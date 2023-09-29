@@ -5,7 +5,7 @@
   </p>
   <br>
   </br>
- 👋 Hi! I am <strong>Parth Nagarkar</strong>, an MS in Computer Science student at Stony Brook University with excellent academic background, strong research interest and diverse skillset. A strong Python aficionado myself, I have a strong inclination for working with Data Science and Machine Learning. I have worked in the domain of Natural Language Processing, Social Media Analytics and Computer Vision. I am also experienced in working with Python3, Java, C, Flask, Streamlit, PostgreSQL and Matlab.
+ 👋 Hi! I am <strong>Parth Nagarkar</strong>, A Software Engineer at Amazon Web Services (AWS) with an MS in Computer Science from Stony Brook University. Specializing in backend development, I'm currently a part of the AWS Supply Chain product team, focusing on the Demand Forecasting module. My hands-on experience ranges from architecting scalable systems to collaborating with diverse teams to ensure efficient data processes. I bring expertise in multiple programming languages and frameworks, including Python, Java, Spring, Flask, and AWS. My stint at Amazon has fortified my knowledge in supply chain systems, and I take pride in influencing architectural decisions and upholding AWS standards.
 <br>
 </br>
 
